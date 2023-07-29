@@ -36,7 +36,7 @@
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me: <a href='mailto:algenisromero@gmail.com'>algenisromero@gmail.com</a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=algenisromero&label=Profile%20views&color=0e75b6&style=flat" alt="algenisromero" /> </p>
