@@ -28,7 +28,7 @@
 </p>
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  Do you find my content helpful? Then Consider <a href='https://www.buymeacoffee.com/aromeroca'>Buy me a coffee ☕</a>
 </p>
 
 <!-- <details align='center'>
@@ -48,10 +48,15 @@
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-darkgray?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe-ED1C24?style=for-the-badge&logo=THM&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=#E57324" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/nmap-navy?style=for-the-badge&logo=apachecassandra&logoColor=%23FF4F8Be" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
 <p align=center> - 2023 - </p>
+<!--<p align=center>
+<a href=https://www.buymeacoffee.com/aromeroca><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+</p>-->
