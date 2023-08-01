@@ -56,6 +56,10 @@
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
+<p align=center> ⚒️ Currently Working </p>
+<p align="center">
+<a href=https://tryhackme.com/p/algenisromero><img src="https://tryhackme-badges.s3.amazonaws.com/algenisromero.png" alt="TryHackMe"></a>
+</p>
 <p align=center> - 2023 - </p>
 <!--<p align=center>
 <a href=https://www.buymeacoffee.com/aromeroca><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
