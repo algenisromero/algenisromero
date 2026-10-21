@@ -1,19 +1,25 @@
 <h1 align='center'>
-  Hi there 👋 I'm Algenis 👨‍💻
+  Hi there 👋 I'm Arom Infosec 👨‍💻
 </h1>
 
 <p align='center'>
   A cybersecurity analyst from United States.
 </p>
 
-<p align='center'>  
+<div align='center'>
+<p style="margin-bottom: 5px;">  
   <a href="https://www.linkedin.com/in/algenisromero/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://instagram.com/algenisromero">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
+<p tyle="font-size: 0.9em; color: #555; margin-top: 0;">
+  <strong>Notice:</strong> Social media accounts are currently suspended until further notice.
+</p>
+</div>
+
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=algenisromero&show_icons=true&count_private=true&theme=dark" width="350"></a>
